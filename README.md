@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:martandmahajan03@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/martand-mahajan/" target="_blank">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/martand-mahajan-667007234/" target="_blank">LinkedIn</a> |
   <a href="https://github.com/martand03" target="_blank">GitHub</a> |
   <a href="https://martandportfolio.web.app" target="_blank">Portfolio</a>
 </p>
