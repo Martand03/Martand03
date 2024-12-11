@@ -6,7 +6,7 @@
 - 💬 Ask me about **ReactJS, AWS, Robotics**
 
 - 📫 How to reach me **martandmahajan03@gmail.com**
-- 🌐 Visit my portfolio **https://martandportfolio.web.app**
+- 🌐 Visit my portfolio **https://martandportfolio-8202a.web.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
