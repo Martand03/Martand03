@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <span style="color: #4ade80;">Martand Mahajan</span></h1>
-<h3 align="center">🚀 Full-Stack Developer | 🛠️ Robotics Enthusiast | 🌍 IoT Explorer</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🛠️ Robotics Enthusiast | ☁️ DevOps/Cloud Practitioner</h3>
 
 ---
 
