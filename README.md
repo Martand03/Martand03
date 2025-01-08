@@ -1,44 +1,70 @@
-<h1 align="center">Hi 👋, I'm Martand Mahajan</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center">Hi there 👋, I'm <span style="color: #4ade80;">Martand Mahajan</span></h1>
+<h3 align="center">🚀 Full-Stack Developer | 🛠️ Robotics Enthusiast | 🌍 IoT Explorer</h3>
 
-- 🌱 I’m currently learning **Spring-Frameworks, AWS, etc**
+---
 
-- 💬 Ask me about **ReactJS, AWS, Robotics**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4ade80&lines=Welcome+to+my+GitHub+profile!;Building+future-ready+tech+solutions.;Coding+my+dreams+into+reality.;&center=true&width=500&height=50" alt="Typing SVG">
+</div>
 
-- 📫 How to reach me **martandmahajan03@gmail.com**
-- 🌐 Visit my portfolio **https://martandportfolio-8202a.web.app**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:martandmahajan03@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/martand-mahajan-667007234/" target="_blank">LinkedIn</a> |
-  <a href="https://github.com/martand03" target="_blank">GitHub</a> |
-  <a href="https://martandportfolio-8202a.web.app/" target="_blank">Portfolio</a>
+### 🌟 About Me
+- 🌱 **Currently Learning**: `Spring Frameworks`, `AWS`, `AI for Robotics`, `MERN`, `DevOPS`
+- 💡 **Passionate About**: Solving real-world problems with code and automation!  
+- 💬 **Ask Me About**: `ReactJS`, `AWS`, `Robotics`, `IoT`, `Full-Stack Development`  
+- 📫 **Reach Me At**: **[martandmahajan03@gmail.com](mailto:martandmahajan03@gmail.com)**  
+- 🌐 **Portfolio**: [martandportfolio-8202a.web.app](https://martandportfolio-8202a.web.app)  
+
+---
+
+### 🏆 My Journey So Far
+- **🚀 3+ Years of Experience** in robotics and engineering.  
+- **🤖 Robocon 2024**: Led **Invictus Robotics Tech Team** to the **3rd stage**.  
+- **🛠️ Built Scalable Solutions**: From smart lockers to IoT-driven automation.  
+- **🎓 Mentored Engineers**: Worked as a **Robotics Trainer** with over 1000 students.  
+
+---
+
+### 🤝 Connect With Me
+<p align="center">
+  <a href="mailto:martandmahajan03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/martand-mahajan-667007234/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/martand03" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://martandportfolio-8202a.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C4CC?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" class="fade-in">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <!-- Add more icons for your languages and tools here -->
-</p>
+---
 
-<h3 align="left">Projects:</h3>
-<ul align="left">
-  <li>Developed a React-based hospital management system.</li>
-  <li>Integrated AWS services for scalable web applications.</li>
-  <li>Contributed to open-source projects enhancing accessibility.</li>
-</ul>
+### 💻 Tech Stack & Tools  
+<div align="center">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</div>
 
-<h3 align="left">Interests:</h3>
-<ul align="left">
-  <li>Exploring AI and Machine Learning applications in healthcare.</li>
-  <li>Building interactive user interfaces with ReactJS.</li>
-  <li>Automating tasks using robotics and IoT solutions.</li>
-</ul>
+---
+
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=martand03&show_icons=true&theme=radical" alt="Martand's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martand03&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</div>
+
+---
+
+### 🎨 Fun Facts About Me
+- 🛠️ I can fix both bugs in code and broken robots!  
+- 🌌 I believe in **exploring endless possibilities**—both in the digital and physical world.  
+- 🎯 When I’m not coding, you’ll find me tinkering with gadgets or brainstorming IoT ideas.
+
+---
+
+✨ *"Let’s build something amazing together!"* 🚀  
